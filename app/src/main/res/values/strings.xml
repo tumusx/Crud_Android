@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppCRUD</string>
+    <string name="n1">CPF</string>
+    <string name="n2">Nome</string>
+    <string name="n3">Telefone</string>
+    <string name="button">Salvar</string>
+
+</resources>
